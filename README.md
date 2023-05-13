@@ -26,10 +26,10 @@ I also incorporated various animations, sound effects, and background music to p
 <br/>
 
 ## Demo
-https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/719ff6ea-ce62-449b-8419-a2d0216dd842
+[https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/719ff6ea-ce62-449b-8419-a2d0216dd842](https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/152e25b6-6466-4608-90e5-f3a5a167e2cb)
 
 
-https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/c489a8d0-429a-43cc-ae7b-d974a8c5a060
+[https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/c489a8d0-429a-43cc-ae7b-d974a8c5a060](https://github.com/terry-koo/WWDC23_Neurorise/assets/67509011/fdcb91b0-aa78-432e-8216-06cb063afe6e)
 
 
 <br/>
