@@ -29,6 +29,7 @@ struct AnimalCardView: View {
                 Text(name)
                     .font(.system(size: bigTitle ? 52 : 32))
                     .fontWeight(.bold)
+                    .foregroundColor(.black)
                 Spacer(minLength: 20)
             }
         }
