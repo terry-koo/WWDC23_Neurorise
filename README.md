@@ -1,5 +1,5 @@
-## <div align="center"> WWDC22 Swift Student Challenge [Accepted]</div>
----
+# <div align="center"> WWDC22 Swift Student Challenge [Accepted]</div>
+
 
 <br/>
 
